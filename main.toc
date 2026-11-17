@@ -1,0 +1,55 @@
+\contentsline {chapter}{Introduction}{vii}{chapter*.2}%
+\contentsline {section}{Introduction to Part I}{viii}{section*.3}%
+\contentsline {section}{Introduction to Part II}{xi}{Item.3}%
+\contentsline {chapter}{Background}{1}{chapter*.4}%
+\contentsline {section}{Conventions}{1}{section*.5}%
+\contentsline {section}{Equivariant tools}{2}{section*.5}%
+\contentsline {section}{Goodwillie calculus}{3}{section*.5}%
+\contentsline {part}{I\hspace {1em}Metastable homotopy theory}{5}{part.1}%
+\contentsline {chapter}{\numberline {1}Metastable structures}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Metastable structures}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Obstructions}{11}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Classification}{15}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Equivariant reformulation}{19}{section.1.4}%
+\contentsline {chapter}{\numberline {2}The metastable category}{21}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Construction}{21}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Monoidality}{27}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Polynomial approximations}{31}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Splittings and desuspensions}{35}{section.2.4}%
+\contentsline {chapter}{\numberline {3}EHP sequences}{43}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Canonical resolution}{44}{section.3.1}%
+\contentsline {section}{\numberline {3.2}EHP sequences}{48}{section.3.2}%
+\contentsline {section}{\numberline {3.3}The 0-sphere}{54}{section.3.3}%
+\contentsline {section}{\numberline {3.4}The 1-sphere}{60}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Miscellanea}{67}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Mahowald invariant}{67}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Hilton--Milnor splitting}{71}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Odd primes}{73}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Adams spectral sequence}{74}{section.4.4}%
+\contentsline {part}{II\hspace {1em}Approximations to the circle}{77}{part.2}%
+\contentsline {chapter}{\numberline {5}Approximation spheres}{79}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Generalized Freudenthal theorem}{79}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Gray sequence}{86}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Further direction I: the Arone--Mahowald computations}{91}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Further direction II: the Cohen--Moore--Neisendorfer exponent theorem}{92}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Early convergence}{94}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Model for the approximation circles}{99}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Symmetric products}{99}{section.6.1}%
+\contentsline {section}{\numberline {6.2}The model}{104}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Computations}{115}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Comparison with Behrens' computations}{115}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Metastable computations}{117}{section.7.2}%
+\contentsline {section}{\numberline {7.3}The homotopy groups of $S^3$}{119}{section.7.3}%
+\contentsline {chapter}{\numberline {8}Future directions}{123}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Survival of elements from $S^1_k$}{123}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Synthetic perspectives}{124}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Simpler approximations}{126}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Chromatic directions}{127}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Segal and Sullivan conjectures}{127}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Unitary Whitehead conjecture}{128}{section.8.6}%
+\contentsline {chapter}{\numberline {A}Stripping techniques}{131}{chapter.A}%
+\contentsline {chapter}{\numberline {B}ASS generator for $W^{2n-1}(2)$}{139}{chapter.B}%
+\contentsline {chapter}{Bibliography}{146}{appendix*.6}%
+\contentsline {chapter}{Nederlandse samenvatting}{147}{appendix*.7}%
+\contentsline {chapter}{Acknowledgments}{149}{appendix*.8}%
+\contentsline {chapter}{Curriculum vitae}{153}{appendix*.9}%

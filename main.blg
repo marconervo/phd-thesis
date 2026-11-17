@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: alpha.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: bib.bib
+Warning--empty journal in Antieau
+Warning--can't use both volume and number fields in Behrens2010
+Warning--empty journal in BP1
+Warning--empty journal in BP2
+Warning--empty journal in Fuentes
+Warning--can't use both volume and number fields in Tate
+Warning--can't use both volume and number fields in Gijsapprox
+Warning--empty journal in kleinnew
+Warning--can't use both volume and number fields in AlgGSS
+Warning--empty journal in spectralSullivan
+Warning--empty publisher in HA
+Warning--empty journal in Kervairelast
+Warning--empty journal in Riedel
+Warning--empty journal in Lucio
+Warning--empty journal in Yuqing
+You've used 98 entries,
+            2543 wiz_defined-function locations,
+            1176 strings with 15671 characters,
+and the built_in function-call counts, 35985 in all, are:
+= -- 3724
+> -- 1190
+< -- 90
++ -- 349
+- -- 345
+* -- 2596
+:= -- 5768
+add.period$ -- 304
+call.type$ -- 98
+change.case$ -- 516
+chr.to.int$ -- 94
+cite$ -- 113
+duplicate$ -- 1546
+empty$ -- 2860
+format.name$ -- 507
+if$ -- 7340
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 107
+newline$ -- 494
+num.names$ -- 300
+pop$ -- 433
+preamble$ -- 1
+purify$ -- 625
+quote$ -- 0
+skip$ -- 1206
+stack$ -- 0
+substring$ -- 2516
+swap$ -- 191
+text.length$ -- 90
+text.prefix$ -- 64
+top$ -- 0
+type$ -- 740
+warning$ -- 15
+while$ -- 385
+width$ -- 102
+write$ -- 1271
+(There were 15 warnings)
