@@ -48,8 +48,7 @@
 \contentsline {section}{\numberline {8.5}Segal and Sullivan conjectures}{127}{section.8.5}%
 \contentsline {section}{\numberline {8.6}Unitary Whitehead conjecture}{128}{section.8.6}%
 \contentsline {chapter}{\numberline {A}Stripping techniques}{131}{chapter.A}%
-\contentsline {chapter}{\numberline {B}ASS generator for $W^{2n-1}(2)$}{139}{chapter.B}%
-\contentsline {chapter}{Bibliography}{146}{appendix*.6}%
-\contentsline {chapter}{Nederlandse samenvatting}{147}{appendix*.7}%
-\contentsline {chapter}{Acknowledgments}{149}{appendix*.8}%
-\contentsline {chapter}{Curriculum vitae}{153}{appendix*.9}%
+\contentsline {chapter}{Bibliography}{144}{appendix*.6}%
+\contentsline {chapter}{Nederlandse samenvatting}{145}{appendix*.7}%
+\contentsline {chapter}{Acknowledgments}{147}{appendix*.8}%
+\contentsline {chapter}{Curriculum vitae}{151}{appendix*.9}%

@@ -116,6 +116,12 @@ D.~Barnes, D.~Poduska, and P.~Shick.
 \newblock In N.~Ray and G.~Walker, editors, {\em {Adams memorial symposium on
   algebraic topology}}, pages 87--118. Cambridge University Press, 1992.
 
+\bibitem[Cha]{ChathamASS}
+Hood Chatham.
+\newblock {Adams spectral sequence calculator}.
+\newblock Software.
+\newblock Available at \url{https://spectralsequences.github.io/sseq/}.
+
 \bibitem[CM17]{telescopicblueshort}
 D.~Clausen and A.~Mathew.
 \newblock {A short proof of telescopic Tate vanishing}.
@@ -427,6 +433,20 @@ J.~A. Neisendorfer.
 \newblock {Homotopy groups with coefficients}.
 \newblock {\em Journal of Fixed Point Theory and Applications}, 8:247--338,
   2010.
+
+\bibitem[Ner26a]{NervoLayers}
+Marco Nervo.
+\newblock {Adams SS for the Goodwillie layers of spheres and suspensions}.
+\newblock Software, 2026.
+\newblock Available at
+  \url{https://marconervo.github.io/ass-goodwillie-layers/}.
+
+\bibitem[Ner26b]{NervoCircle}
+Marco Nervo.
+\newblock {An Adams SS for the Goodwillie tower of the circle}.
+\newblock Software, 2026.
+\newblock Available at
+  \url{https://marconervo.github.io/ass-goodwillie-circle/}.
 
 \bibitem[Nik16]{NikolausNotes}
 T.~Nikolaus.
