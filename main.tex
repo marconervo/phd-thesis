@@ -6589,7 +6589,7 @@ Before using these fiber sequences to construct the maps and prove the general r
 \begin{rem}
 	These examples can be generalized to all infinite loop spaces $\Omega^\infty X$, thanks to Kuhn's generalized Kahn--Priddy theorem \cite[thm. 1.1]{genKP}. First, note from remark \ref{retractioninfloop} and part (1) of the splitting lemma (lem. \ref{splittinglemma}) that
 	\[
-	R_1I(\Omega^\infty X) \simeq \Omega^{\infty+1}\mathrm{fib}(\epsilon)
+	R_1I(\Omega^\infty X) \simeq \Omega^{\infty+1}\mathrm{fib}(\epsilon) \simeq \Omega^{\infty+1}\mathrm{fib}(\Sigma^\infty \Omega^\infty X \to X)
 	\]
 	where $\epsilon$ is the counit of the adjunction $\Sigma^\infty \dashv \Omega^\infty$. Hence, by the previous lemma, the remainder fits into a fiber sequence
 	\[
@@ -6625,7 +6625,12 @@ Before using these fiber sequences to construct the maps and prove the general r
 	\[
 	\Omega P_2I(\Omega^\infty X)
 	\simeq
-	\Omega^{\infty+1}X \times \Omega^{\infty+2}\mathrm{fib}(\mu)
+	\Omega^{\infty+1}X \times \Omega^{\infty+2}\mathrm{fib}(\mu) \simeq \Omega^{\infty+1}X \times \Omega^{\infty+2} \mathrm{tfib} \left(
+		\begin{tikzcd}[cramped, sep=small]
+		(\Sigma^\infty\Omega^\infty X)^{\otimes 2}_{hC_2} \arrow[r] \arrow[d] & \Sigma^\infty\Omega^\infty X \arrow[d] \\
+		* \arrow[r] & X
+		\end{tikzcd}
+	\right)
 	\]
 	We believe that this behaviour generalizes to the whole Goodwillie tower, but we were unable to prove it, so we leave it as a question.
 \end{rem}
