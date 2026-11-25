@@ -1,6 +1,6 @@
-\contentsline {chapter}{Introduction}{vii}{chapter*.2}%
-\contentsline {section}{Introduction to Part I}{viii}{section*.3}%
-\contentsline {section}{Introduction to Part II}{xi}{Item.3}%
+\contentsline {chapter}{Introduction}{ix}{chapter*.2}%
+\contentsline {section}{Introduction to Part I}{x}{section*.3}%
+\contentsline {section}{Introduction to Part II}{xiii}{Item.3}%
 \contentsline {chapter}{Background}{1}{chapter*.4}%
 \contentsline {section}{Conventions}{1}{section*.5}%
 \contentsline {section}{Equivariant tools}{2}{section*.5}%
